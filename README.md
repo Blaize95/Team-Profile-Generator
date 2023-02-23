@@ -3,7 +3,7 @@
 
 ## Description
 In this project, I was tasked with creating a team profile generator, which takes user answers regarding a coding team and displays them in a HTML file. This was achieved by using prompts within the Inquirer package and write file functionality. A video showing how to use this application can be viewed using the following link:
-https://drive.google.com/file/d/1zRgeZKE9shsy66QTqNVz04smBWMxR0hg/view
+https://drive.google.com/file/d/1sJ2PqgEGkkTbH4nkfVZgE2dX1KWw7Yn8/view
 
 ## Table Of Contents
 * [Description](#description)
